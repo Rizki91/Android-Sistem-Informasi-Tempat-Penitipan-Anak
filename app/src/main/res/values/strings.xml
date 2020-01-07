@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Khalifah Lombok</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="menu_gallery">Rincian</string>
+    <string name="menu_tools">Kegiatan</string>
+    <string name="menu_share">Pendaftaran</string>
+    <string name="menu_send">Notifikasi</string>
+    <string name="menu_keluar">Keluar</string>
+
+
+    <string name="sett_reminder_header">Set Notifikasi</string>
+    <string name="sett_reminder_label">Notifikasi</string>
+    <string name="sett_reminder_desc">Kami akan mengingatkan anda untuk jemput anak anda</string>
+    <string name="sett_reminder_time_label">Set Notifikasi Time</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+
+    <string name="title_daftar_makanan_sunda">Daftar Hari</string>
+    <string name="title_adapter_click_listener">Kegiatan</string>
+
+
+
+    <string-array name="golongan_darah">
+        <item>Pilih</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="agama">
+        <item>Pilih</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+
+
+</resources>
