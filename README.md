@@ -13,8 +13,7 @@ Sistem Informasi Tempat Penitipan Anak
 
 # Gambar Aplikasi
 
-* [Home](IMG_20190714_185700.jpg)
-
+![Home](IMG_20190714_185700.jpg)
 ![](IMG_20190715_161207.jpg)
 ![](IMG_20190714_185803.jpg)
 ![](IMG_20190714_185957.jpg)
