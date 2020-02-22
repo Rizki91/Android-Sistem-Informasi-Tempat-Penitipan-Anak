@@ -9,7 +9,9 @@ Sistem Informasi Tempat Penitipan Anak
 3.Pendaftaran tempat penitipan anak.
 
 # Gambar Aplikasi
+* Halaman Home
 ![](IMG_20190714_185700.jpg) 
+* Halaman Home
 ![](IMG_20190715_161207.jpg)
 ![](IMG_20190714_185803.jpg)
 ![](IMG_20190714_185957.jpg)
